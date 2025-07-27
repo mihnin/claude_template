@@ -1,6 +1,8 @@
 # Claude AI specific
 .claude/
 docs/
+CLAUDE.md
+*.txt
 
 # Python
 __pycache__/
