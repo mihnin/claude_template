@@ -24,7 +24,8 @@
       "Bash(gh pr diff:*)",
       "Bash(gh:*)",
       "WebFetch(domain:www.anthropic.com)",
-      "Bash(git remote add:*)"
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)"
     ],
     "deny": []
   }
